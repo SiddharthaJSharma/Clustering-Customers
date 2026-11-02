@@ -1,0 +1,5 @@
+kmeans_cluster,customers,avg_recency,median_recency,avg_frequency,median_frequency,avg_monetary,median_monetary,customer_percentage,Persona,Recommended_Action
+0,1965,397.93,405.0,1.38,1.0,325.51,282.79,33.43,Hibernating / Inactive customers,Test reactivation offers and suppress customers who do not respond.
+1,1195,28.04,17.0,19.27,13.0,10970.77,5120.0,20.33,Champions / High-value loyalists,"Reward loyalty, offer early access, and encourage referrals."
+2,1455,229.58,186.0,5.09,5.0,1997.27,1508.18,24.75,At-risk loyal customers,Send a personalized win-back campaign and highlight relevant new products.
+3,1263,29.37,25.0,3.03,3.0,861.21,742.19,21.49,Active loyal customers,"Use loyalty rewards, personalized recommendations, and cross-selling."
